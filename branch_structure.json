@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1826-nightly-health-failure-budgets-auto-triage-and",
+    "main",
+    "origin",
+    "security/issue-1796-crash-consistent-checkpointing-with-atomic-swap"
+  ],
+  "parent": {
+    "fix/issue-1826-nightly-health-failure-budgets-auto-triage-and": "main",
+    "main": null,
+    "origin": "main",
+    "security/issue-1796-crash-consistent-checkpointing-with-atomic-swap": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1826-nightly-health-failure-budgets-auto-triage-and",
+    "origin",
+    "security/issue-1796-crash-consistent-checkpointing-with-atomic-swap"
+  ]
+}
