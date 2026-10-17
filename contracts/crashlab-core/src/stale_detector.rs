@@ -1,4 +1,5 @@
 //! Stale run detector for long-running fuzz campaigns.
+//! Stale run detector for long-running fuzz campaigns.
 //!
 //! A run is considered stale when no progress has been recorded within the
 //! configured threshold. Progress is defined as either a new unique crash
